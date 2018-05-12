@@ -22,6 +22,8 @@ description: "Lettres de Mme Laure de Maupassant à Gustave Flaubert -- Lettre-P
   Dernière soirée passée avec ma maîtresse -- Souvenirs -- L'Espérance et le Doute\
   \ -- Le Sommeil du mandarin -- Enfant, pourquoi pleurer? -- Le Moulin (fragment)\
   \ -- Sabbat -- Sonnet --"
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45312#Oeuvres-compl-tes-de-Guy-de-Maupassant---volume-2--13-Vers-in-dits
 gutenberg_bookshelf:
 - FR Poésie
 - FR Littérature
