@@ -1,0 +1,40 @@
+_repo: Oeuvres-compl-tes-de-Guy-de-Maupassant---volume-2--13-Vers-in-dits_45312
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45312-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Maupassant, Guy de
+    alias: De Maupassant, Guy
+    birthdate: 1850
+    deathdate: 1893
+    gutenberg_agent_id: '306'
+    url: http://www.gutenberg.org/2009/agents/306
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Guy_de_Maupassant
+    - http://fr.wikipedia.org/wiki/Guy_de_Maupassant
+description: "Lettres de Mme Laure de Maupassant à Gustave Flaubert -- Lettre-Préface\r\
+  \n\r\nLe Mur -- Un Coup de soleil -- Terreur -- Une Conquête -- Nuit de neige --\
+  \ Envoi d'amour -- Au Bord de l'Eau -- Les Oies sauvages -- Découverte -- L'Oiseleur\
+  \ -- L'Aïeul -- Désirs -- La Dernière Escapade -- Promenade -- Sommation -- La Chanson\
+  \ du rayon de lune -- Fin d'amour -- Propos des rues -- Vénus rustique \r\n\r\n\
+  Dernière soirée passée avec ma maîtresse -- Souvenirs -- L'Espérance et le Doute\
+  \ -- Le Sommeil du mandarin -- Enfant, pourquoi pleurer? -- Le Moulin (fragment)\
+  \ -- Sabbat -- Sonnet --"
+gutenberg_bookshelf:
+- FR Poésie
+- FR Littérature
+gutenberg_issued: '2014-04-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45312'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French literature'
+- !lcc 'PQ'
+title: Œuvres complètes de Guy de Maupassant - volume 02
+url: http://www.gutenberg.org/ebooks/45312
